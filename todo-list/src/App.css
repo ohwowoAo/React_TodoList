@@ -36,3 +36,27 @@
     transform: rotate(360deg);
   }
 }
+.wrap{
+  width: 300px;
+  min-height: 350px;
+  margin: 30px auto 0;
+  padding: 10px;
+  border-radius: 20px;
+  text-align: center;
+  background: #fcfbfa;
+  box-shadow: 0 13px 27px -5px rgb(50 50 93 / 25%), 0 8px 16px -8px rgb(0 0 0 / 30%), 0 -6px 16px -6px rgb(0 0 0 / 3%);
+}
+.wrap form input{
+  padding: 5px 6px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+.wrap form button{
+  margin: 0 0 0 5px;
+  font-weight: bold;
+  color: #fff;
+  padding: 6px 10px;
+  border: 0;
+  border-radius: 10px;
+  background: #ace0de;
+}
