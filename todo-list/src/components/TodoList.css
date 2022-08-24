@@ -1,0 +1,9 @@
+.todo-list-main{
+    height: 325px;
+    padding: 20px 0 0;
+    overflow: auto;
+}
+.todo-list-main .TodoItem{
+    margin: 0 0 10px;
+    border-bottom: 1px dashed #ddd;
+}

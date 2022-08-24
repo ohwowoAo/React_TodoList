@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Pen+Script&family=Yeon+Sung&display=swap');
+
+.Template{
+    position: relative;
+}
+.Template > div{
+    font-size: 24px;
+    font-weight: bold;
+    font-family: 'Nanum Pen Script', cursive;
+    color: #5f7eaf;
+    text-align: left;
+}
+.Template .TemplateTit{
+    font-size: 28px;
+}
+.Template > div > svg{
+    margin: -3px 7px 0 0;
+    font-size: 21px;
+    vertical-align: middle;
+}
