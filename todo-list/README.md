@@ -2,7 +2,7 @@
 
 <br />
 
-### JavaScript를 활용한 프로젝트
+### React를 활용한 프로젝트
 
 - .concat을 통한 todolist 생성 구현
 - map를 이용한 todolist 수정 구현
